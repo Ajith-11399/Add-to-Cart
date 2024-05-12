@@ -1,0 +1,36 @@
+.sale {
+  top: 0.5rem !important;
+  right: 0.5rem !important;
+}
+
+.fa-star{
+    color: #FFC107 !important;
+}
+
+.text-decoration-line-through{
+  margin-right: 10px !important;
+}
+
+.card-body{
+  height: 90px !important;
+}
+
+.btn-success{
+  background-color: white !important;
+  color: #157347 !important;
+}
+
+.btn-success:hover{
+  color: white !important;
+  background-color: #157347 !important;
+}
+
+.btn-danger{
+  background-color: white !important;
+  color: #bb2d3b !important;
+}
+
+.btn-danger:hover{
+  color: white !important;
+  background-color: #bb2d3b !important;
+}
